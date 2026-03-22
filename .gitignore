@@ -1,0 +1,15 @@
+# Obsidian workspace (changes on every session)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# iCloud temp files
+.icloud
+*.icloud
+
+# OS files
+.DS_Store
+.Trash/
+
+# Superpowers / agent runtime artifacts
+.superpowers/

@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "c4aa25410d3c669e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd2ea52bcb2033b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7990b0791d7f6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resource/놓치고 싶지 않은 나의 꿈 나의 인생.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "놓치고 싶지 않은 나의 꿈 나의 인생"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e2bce527ebe8dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd0360847879f1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17cc477366d2ff4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "82134503099d4c25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "모바일",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "741cacdc97cf6ce9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f3fbbfa5f92c76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40b07aecaee61336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b09c2027a577841c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3-Resource/놓치고 싶지 않은 나의 꿈 나의 인생.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "놓치고 싶지 않은 나의 꿈 나의 인생 의 백링크"
+            }
+          },
+          {
+            "id": "73fe0a5c85bd623f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3-Resource/놓치고 싶지 않은 나의 꿈 나의 인생.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "놓치고 싶지 않은 나의 꿈 나의 인생 의 나가는 링크"
+            }
+          },
+          {
+            "id": "9d3f5c721e748c3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "7c23b3896cd5440a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "bb9b8ea91796f3b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3-Resource/놓치고 싶지 않은 나의 꿈 나의 인생.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "놓치고 싶지 않은 나의 꿈 나의 인생 의 개요"
+            }
+          },
+          {
+            "id": "2f99ace84e1bfcbd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "82134503099d4c25",
+  "lastOpenFiles": [
+    "3-Resource/달리기를 말할 때 내가 하고 싶은 이야기.md",
+    "3-Resource/마케팅 천재가 된 맥스.md",
+    "3-Resource/2억 빚을 진 내가 뒤늦게 알게 된 소~오름 돋는 우주의 법칙.md",
+    "3-Resource/가난한 회사의 마케터 매뉴얼.md",
+    "3-Resource/독서는 절대 나를 배신하지 않는다..md",
+    "3-Resource/밥 프록터 부의 확신.md",
+    "3-Resource/그로스해킹.md",
+    "3-Resource/크러쉬 잇! SNS로 열정을 돈으로 바꿔라.md",
+    "3-Resource/프리워커스.md",
+    "3-Resource/딱! 100일만 미쳐라(기적은 일어나는 것이 아니라 선택하는 것이다).md",
+    "3-Resource/사랑의 은어.md",
+    "3-Resource/이 책은 돈 버는 법에 관한 이야기.md",
+    "3-Resource/루틴의 힘.md",
+    "3-Resource/리커버링.md",
+    "3-Resource/이야기로 다가가는 HTML.md",
+    "3-Resource/기획의 정석.md",
+    "3-Resource/놓치고 싶지 않은 나의 꿈 나의 인생.md",
+    "3-Resource/미루는 습관을 이기는 작은 책.md",
+    "3-Resource/생각하는 늑대 타스케.md",
+    "3-Resource/N잡하는 허대리의 월급 독립 스쿨.md",
+    "3-Resource/해가 지는 곳으로.md",
+    "3-Resource/아들이 일해서 번 돈 1000만 원으로 서울에 집 샀다.md",
+    "3-Resource/쓰고 상상하고 실행하라.md",
+    "3-Resource/세계 창업 방랑기.md",
+    "3-Resource/아무튼 달리기.md",
+    "3-Resource/석봉 토스트, 연봉 1억 신화.md",
+    "무제.canvas"
+  ]
+}
